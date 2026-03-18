@@ -51,7 +51,7 @@ Praticar lógica de programação com Java, reforçando conceitos fundamentais p
 
 Clone o repositório:
 
-### - git clone https://github.com/seu-usuario/seu-repositorio.git
+### - git clone *https://github.com/programadorleonardocoimbra/fundamentos-de-Java.git*
 
 Abra o projeto em sua IDE e execute as classes Java individualmente
 
@@ -59,9 +59,8 @@ Abra o projeto em sua IDE e execute as classes Java individualmente
 
 Desenvolvido por **Leonardo Coimbra**
 
-### ⭐ Contribuição
-
-Sinta-se à vontade para contribuir com melhorias ou novos exercícios!
+#### ⭐ Contribuição
+*Sinta-se à vontade para contribuir com melhorias ou novos exercícios!*
 
 #### 📄 Licença
-Este projeto está sob a *licença MIT.*
+*Este projeto está sob a *licença MIT.*
