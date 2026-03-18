@@ -1,16 +1,13 @@
 # ☕ Fundamentos de Java - Exercícios Práticos
 
-Este repositório contém exercícios práticos de Java voltados para iniciantes e desenvolvedores Java Backend Júnior, abordando conceitos essenciais da linguagem.
+*Este repositório contém exercícios práticos de Java voltados para iniciantes e desenvolvedores Java Backend Júnior, abordando conceitos essenciais da linguagem.*
 
-🚀 Tecnologias utilizada:
-#### *Java*
----------------------------------
-IDE recomendada: 
-#### *VsCode*
----------------------------------
+## Tecnologias utilizada:
+### ☕︎ *Java*
+## IDE recomendada: 
+### </>*VsCode*
 ## 📚 Conteúdos abordados
-🔹 Operadores Relacionais
-
+***Operadores Relacionais***
 Comparações entre valores:
 
  - *== Igual*
@@ -21,46 +18,34 @@ Comparações entre valores:
  - *<= Menor ou igual*
 
 ## 🔹 Operadores Lógicos
-
-Combinação de condições:
+***Combinação de condições:***
 
  - && (AND)
  - || (OR)
  - ! (NOT)
 
 ## 🔹 Controle de Fluxo
-
-Controle da execução do programa:
-
+***Controle da execução do programa:***
  - *if / else*
  - *switch / case*
 
 ## 🔹 Blocos de Código
-
-#### Organização e estrutura:
-
+***Organização e estrutura:***
  - Uso de { }
  - Escopo de variáveis
  - Estruturas aninhadas
 
-### 💡 Objetivo
-
+## 💡 Objetivo
 Praticar lógica de programação com Java, reforçando conceitos fundamentais para desenvolvimento backend.
-
-### 🧪 Como executar
+## 🧪 Como executar
 
 Clone o repositório:
-
-### - git clone *https://github.com/programadorleonardocoimbra/fundamentos-de-Java.git*
+***git clone *https://github.com/programadorleonardocoimbra/fundamentos-de-Java.git***
 
 Abra o projeto em sua IDE e execute as classes Java individualmente
 
-
-
-Desenvolvido por **Leonardo Coimbra**
-
+## Desenvolvido por: **Leonardo Coimbra**
 #### ⭐ Contribuição
 *Sinta-se à vontade para contribuir com melhorias ou novos exercícios!*
-
 #### 📄 Licença
-*Este projeto está sob a *licença MIT.*
+*Este projeto está sob a licença MIT.*
