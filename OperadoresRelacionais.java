@@ -1,7 +1,7 @@
-
 // Usados para comparar valores. Ex: ==, !=, >, <, >=, <=
-// Crie um programa que verifique se um número é maior que 10:
 
+/* Crie um programa que verifique se um número é maior que 10:
+*/ 
 
 public class OperadoresRelacionais {
     public static void main(String [] args){
