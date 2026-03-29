@@ -39,11 +39,6 @@ Comparações entre valores:
 Praticar lógica de programação com Java, reforçando conceitos fundamentais para desenvolvimento backend.
 ## 🧪 Como executar
 
-Clone o repositório:
-***git clone *https://github.com/programadorleonardocoimbra/fundamentos-de-Java.git***
-
-Abra o projeto em sua IDE e execute as classes Java individualmente
-
 ## Desenvolvido por: **Leonardo Coimbra**
 #### ⭐ Contribuição
 *Sinta-se à vontade para contribuir com melhorias ou novos exercícios!*
